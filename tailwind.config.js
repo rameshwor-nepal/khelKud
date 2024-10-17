@@ -9,7 +9,8 @@ export default {
       colors: {
         blue: {
           1: '#50a5b1',
-          2: '#1a265a'
+          2: '#1469fc',
+          3: "#1a265a"
         },
         orange: {
           1: '#f1600d',
