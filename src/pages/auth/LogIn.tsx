@@ -19,7 +19,7 @@ const LogIn = () => {
                 {/* </a> */}
                 <div className="w-full bg-white rounded-lg shadow md:mt-0 sm:max-w-md xl:p-0">
                     <div className="p-6 space-y-4 md:space-y-6 sm:p-8">
-                        <h1 className="text-xl font-bold leading-tight tracking-tight text-blue-3 md:text-2xl">
+                        <h1 className="text-xl font-bold leading-tight tracking-tight text-gray-2 md:text-2xl">
                             Sign in to your account
                         </h1>
                         <form className="space-y-4 md:space-y-6">
@@ -76,7 +76,7 @@ const LogIn = () => {
                             </div>
                             <button
                                 type="submit"
-                                className="w-full text-white transition-all duration-500 ease-in-out bg-orange-1 hover:bg-orange-2 font-medium rounded-lg text-sm px-5 py-2.5 text-center">
+                                className="w-full text-white transition-all duration-500 ease-in-out bg-gray-2 hover:bg-green-2 font-medium rounded-lg text-sm px-5 py-2.5 text-center">
                                 Sign in
                             </button>
                             <p

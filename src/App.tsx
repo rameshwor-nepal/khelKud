@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './App.css'
-import MainLayout from './component/ui/MainLayout'
+import MainLayout from './component/layout/MainLayout'
 import ErrorPage from './component/ErrorPage'
 import HomePage from './pages/home/HomePage'
 import LogIn from './pages/auth/LogIn'
